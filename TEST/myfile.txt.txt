@@ -1,3 +1,5 @@
 Hi...Hello
 
 This is the test text file from the client side example in github
+
+Bye
